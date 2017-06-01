@@ -1,2 +1,0 @@
-class LostItem < ApplicationRecord
-end

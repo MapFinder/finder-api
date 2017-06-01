@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  resources :lost_items
+  resources :items
 end
